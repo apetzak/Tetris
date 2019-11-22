@@ -1,0 +1,51 @@
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\bin\Debug\EntityFramework.dll
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\bin\Debug\System.Data.SQLite.dll
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\bin\Debug\EntityFramework.xml
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\bin\Debug\System.Data.SQLite.xml
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\obj\Debug\App.g.cs
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\obj\Debug\ScoreWindow.g.cs
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\obj\Debug\MainWindow.baml
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Games\Tetris\Tetris\obj\Debug\ScoreWindow.baml
+D:\Projects\Games\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\Projects\Games\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Projects\Games\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Projects\Games\Tetris\Tetris\bin\Debug\EntityFramework.dll
+D:\Projects\Games\Tetris\Tetris\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Games\Tetris\Tetris\bin\Debug\System.Data.SQLite.dll
+D:\Projects\Games\Tetris\Tetris\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Projects\Games\Tetris\Tetris\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Projects\Games\Tetris\Tetris\bin\Debug\EntityFramework.xml
+D:\Projects\Games\Tetris\Tetris\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Games\Tetris\Tetris\bin\Debug\System.Data.SQLite.xml
+D:\Projects\Games\Tetris\Tetris\bin\Debug\System.Data.SQLite.dll.config
+D:\Projects\Games\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\Projects\Games\Tetris\Tetris\obj\Debug\MainWindow.g.cs
+D:\Projects\Games\Tetris\Tetris\obj\Debug\ScoreWindow.g.cs
+D:\Projects\Games\Tetris\Tetris\obj\Debug\App.g.cs
+D:\Projects\Games\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+D:\Projects\Games\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+D:\Projects\Games\Tetris\Tetris\obj\Debug\MainWindow.baml
+D:\Projects\Games\Tetris\Tetris\obj\Debug\ScoreWindow.baml
+D:\Projects\Games\Tetris\Tetris\obj\Debug\Tetris.g.resources
+D:\Projects\Games\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\Projects\Games\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+D:\Projects\Games\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\Projects\Games\Tetris\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+D:\Projects\Games\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\Projects\Games\Tetris\Tetris\obj\Debug\Tetris.pdb

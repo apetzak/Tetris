@@ -1,0 +1,31 @@
+﻿<Window x:Class="Tetris.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tetris"
+        mc:Ignorable="d"
+        Title="Tetris" Height="681.832" Width="495.347" KeyDown="Window_KeyDown" KeyUp="Window_KeyUp" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Closed="Window_Closed" MinWidth="477.665" MinHeight="669.485" IsTabStop="False">
+    <Grid Background="#FF2F2F2F" Margin="0,0,-6,0">
+        <Border
+    BorderThickness="2"
+    BorderBrush="Black"
+    Background="Gray"
+    HorizontalAlignment="Left"
+    VerticalAlignment="Top"
+    Width="323"
+    Height="622" Margin="9,11,0,0">
+            <Canvas x:Name="cvsMain" HorizontalAlignment="Left" Height="600" Margin="10,10,0,0" VerticalAlignment="Top" Width="300" Background="Black"/>
+        </Border>
+        <Label x:Name="lblScore" Content="Score: 000000" HorizontalAlignment="Left" Margin="341,378,0,0" VerticalAlignment="Top" Background="Gray" Width="131" FontSize="16" FontWeight="ExtraBold" BorderThickness="2" BorderBrush="Black"/>
+        <Label x:Name="lblLevel" Content="Level: 000000" HorizontalAlignment="Left" Margin="341,421,0,0" VerticalAlignment="Top" Background="Gray" Width="131" FontSize="16" FontWeight="ExtraBold" BorderThickness="2" BorderBrush="Black"/>
+        <Label x:Name="lblLines" Content="Lines: 000000" HorizontalAlignment="Left" Margin="341,464,0,0" VerticalAlignment="Top" Background="Gray" Width="131" FontSize="16" FontWeight="ExtraBold" BorderThickness="2" BorderBrush="Black"/>
+        <Canvas x:Name="cvsNext" HorizontalAlignment="Left" Height="150" Margin="341,53,0,0" VerticalAlignment="Top" Width="120" Background="#FF2F2F2F"/>
+        <Label x:Name="lblNext" Content="       Next" HorizontalAlignment="Left" Margin="341,11,0,0" VerticalAlignment="Top" Background="Gray" Width="120" FontSize="16" FontWeight="ExtraBold" BorderBrush="Black" BorderThickness="2"/>
+        <Label x:Name="lblTime" Content="Time: 000000" HorizontalAlignment="Left" Margin="341,507,0,0" VerticalAlignment="Top" Background="Gray" Width="131" FontSize="16" FontWeight="ExtraBold" BorderBrush="Black" BorderThickness="2"/>
+        <Button x:Name="btnScores" Content="Scores" HorizontalAlignment="Left" Margin="341,322,0,0" VerticalAlignment="Top" Width="127" Height="35" Background="Gray" BorderThickness="6" FontSize="16" FontWeight="Bold" BorderBrush="Black" Click="btnScores_Click" Focusable="False"/>
+        <Button x:Name="btnNewGame" Content="New Game" HorizontalAlignment="Left" Margin="341,242,0,0" VerticalAlignment="Top" Width="127" Height="35" Background="Gray" BorderThickness="6" FontSize="16" FontWeight="Bold" BorderBrush="Black" Click="btnNewGame_Click" Focusable="False"/>
+        <Button x:Name="btnPause" Content="Pause" HorizontalAlignment="Left" Margin="341,282,0,0" VerticalAlignment="Top" Width="127" Height="35" Background="Gray" BorderThickness="6" FontSize="16" FontWeight="Bold" BorderBrush="Black" Click="btnPause_Click" Focusable="False"/>
+
+    </Grid>
+</Window>
